@@ -1,3 +1,23 @@
+
+## step 1
+# 1.install minikube
+# 2.skaffold
+# 3.node
+# 3.docker
+
+## step 2
+# 1.pull source code frome git
+# 2.npm install express at same git pull
+
+## step 3
+# 1.start minikube
+# 2.skaffold dev
+# 3.minikube service node-app
+
+
+
+
+
 ### ref. https://www.babelcoder.com/blog/articles/skaffold
 
 ## install kube mini 
